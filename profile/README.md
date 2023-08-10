@@ -1,5 +1,4 @@
 ## Hi there 👋
-<img src="logo-2.png" alt="drawing" width="200"/>
 
 [Lab page link](https://www.mayolab.net/research)
 

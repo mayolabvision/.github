@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src=".github/profile/logo-2.png" alt="drawing" width="200"/>
+<img src="/.github/profile/logo-2.png" alt="drawing" width="200"/>
 
 [Lab page link](https://www.mayolab.net/research)
 

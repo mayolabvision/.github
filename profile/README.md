@@ -1,5 +1,5 @@
 ## Hi there 👋
-![logo-2](https://github.com/mayolabvision/.github/assets/37158560/eca691d8-3736-4b62-92a5-61866d3a9cc8)
+<img src="logo-2.png" alt="drawing" width="200"/>
 
 [Lab page link](https://www.mayolab.net/research)
 

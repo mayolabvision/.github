@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[Lab page link](https://www.mayolab.net/research)
+
 <!--
 
 **Here are some ideas to get you started:**
